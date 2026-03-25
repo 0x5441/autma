@@ -1,0 +1,2 @@
+# autma
+autma scripts 
